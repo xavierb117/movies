@@ -1,0 +1,142 @@
+[
+    {
+        "title": "Top Gun: Maverick",
+        "yearReleased": 2022,
+        "filmLength": 131,
+        "shortSynopsis": "Thirty years after his service, Maverick returns to train Top Gun graduates for a specialized mission.",
+        "genre": "Action"
+    },
+    {
+        "title": "Dune: Part One",
+        "yearReleased": 2021,
+        "filmLength": 155,
+        "shortSynopsis": "Paul Atreides navigates political intrigue and desert warfare on the planet Arrakis.",
+        "genre": "SciFi"
+    },
+    {
+        "title": "John Wick: Chapter 4",
+        "yearReleased": 2023,
+        "filmLength": 169,
+        "shortSynopsis": "John Wick takes on the High Table in a globe-spanning war for freedom.",
+        "genre": "Action"
+    },
+    {
+        "title": "The Northman",
+        "yearReleased": 2022,
+        "filmLength": 137,
+        "shortSynopsis": "A Viking prince embarks on a brutal quest to avenge his murdered father.",
+        "genre": "Adventure"
+    },
+    {
+        "title": "Mission: Impossible – Fallout",
+        "yearReleased": 2018,
+        "filmLength": 147,
+        "shortSynopsis": "Ethan Hunt and his team race to prevent nuclear catastrophe after a mission goes wrong.",
+        "genre": "Thriller"
+    },
+    {
+        "title": "1917",
+        "yearReleased": 2019,
+        "filmLength": 119,
+        "shortSynopsis": "Two young British soldiers must deliver a message across enemy lines during WWI.",
+        "genre": "War"
+    },
+    {
+        "title": "Ford v Ferrari",
+        "yearReleased": 2019,
+        "filmLength": 152,
+        "shortSynopsis": "American car designer Carroll Shelby and driver Ken Miles challenge Ferrari at Le Mans.",
+        "genre": "Drama"
+    },
+    {
+        "title": "The Gentlemen",
+        "yearReleased": 2019,
+        "filmLength": 113,
+        "shortSynopsis": "An American cannabis kingpin in London fends off rivals trying to steal his empire.",
+        "genre": "Crime"
+    },
+    {
+        "title": "Nobody",
+        "yearReleased": 2021,
+        "filmLength": 92,
+        "shortSynopsis": "A seemingly ordinary man unleashes his lethal skills after a home invasion.",
+        "genre": "Action"
+    },
+    {
+        "title": "The Revenant",
+        "yearReleased": 2015,
+        "filmLength": 156,
+        "shortSynopsis": "A frontiersman fights for survival and revenge after being left for dead.",
+        "genre": "Adventure"
+    },
+    {
+        "title": "Hell or High Water",
+        "yearReleased": 2016,
+        "filmLength": 102,
+        "shortSynopsis": "Two brothers rob banks to save their family ranch, pursued by a retiring Texas Ranger.",
+        "genre": "Western"
+    },
+    {
+        "title": "The Grey",
+        "yearReleased": 2015,
+        "filmLength": 117,
+        "shortSynopsis": "After a plane crash in Alaska, survivors must fight the elements and wolves to survive.",
+        "genre": "Thriller"
+    },
+    {
+        "title": "Sicario",
+        "yearReleased": 2015,
+        "filmLength": 121,
+        "shortSynopsis": "An FBI agent joins a covert task force targeting drug cartels near the U.S.–Mexico border.",
+        "genre": "Crime"
+    },
+    {
+        "title": "Extraction",
+        "yearReleased": 2020,
+        "filmLength": 117,
+        "shortSynopsis": "A black-market mercenary is sent to rescue an Indian crime lord's kidnapped son.",
+        "genre": "Action"
+    },
+    {
+        "title": "The Covenant",
+        "yearReleased": 2023,
+        "filmLength": 123,
+        "shortSynopsis": "An American soldier returns to Afghanistan to rescue his local interpreter from the Taliban.",
+        "genre": "War"
+    },
+    {
+        "title": "Logan",
+        "yearReleased": 2017,
+        "filmLength": 137,
+        "shortSynopsis": "In a bleak future, an aging Wolverine must protect a young mutant girl from dark forces.",
+        "genre": "Superhero"
+    },
+    {
+        "title": "Dunkirk",
+        "yearReleased": 2017,
+        "filmLength": 106,
+        "shortSynopsis": "Allied soldiers are evacuated from the beaches of Dunkirk under relentless enemy fire.",
+        "genre": "War"
+    },
+    {
+        "title": "A Man Called Otto",
+        "yearReleased": 2022,
+        "filmLength": 126,
+        "shortSynopsis": "A grumpy widower's life changes when a lively family moves in next door.",
+        "genre": "Drama"
+    },
+    {
+        "title": "Tenet",
+        "yearReleased": 2020,
+        "filmLength": 150,
+        "shortSynopsis": "A secret agent manipulates time to prevent global annihilation in a nonlinear conflict.",
+        "genre": "SciFi"
+    },
+    {
+        "title": "The Last Duel",
+        "yearReleased": 2021,
+        "filmLength": 152,
+        "shortSynopsis": "In 14th century France, a knight challenges a squire to a trial by combat over a serious accusation.",
+        "genre": "Historical"
+    }
+]
